@@ -1,4 +1,4 @@
-# Basic Express Server
+# Encrypted MongoDB database
 
 To get started:
 
